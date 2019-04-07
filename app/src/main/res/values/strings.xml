@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloKotlin</string>
+    <string name="txt_button_login">Login</string>
+    <string name="txt_button_demonstracao">Demonstracao</string>
+    <string name="txt_atendimento">Atendimento</string>
+    <string name="txt_button_abrir_conta">Abra a sua conta</string>
+</resources>
